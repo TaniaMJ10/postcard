@@ -1,0 +1,16 @@
+body {
+    background: black;
+}
+.post {
+    background: white;
+    width: 850px;
+    height: 800px;
+    margin: auto;
+}
+.imagen{
+    margin:5px 30px 5px 25px;
+}
+.texto{
+    font-size: 20px;
+    margin:5px 30px 5px 25px;
+}
